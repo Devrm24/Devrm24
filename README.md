@@ -1,7 +1,8 @@
 ## Devrim
 
-### - 🔭Etudiant en BTS SIO
+### - 🔭Etudiant en BTS SIO actuellement
 - 🌱 SISR/SLAM-
--  👯 19 ANS
+-  👯 19 ANS 
 -  - 💬 Me contacter : alexandrecontact.enter@gmail.com
-   - - 📫 TR
+   - - 📫 Apprentissage de l'informatique
+     - 
