@@ -1,6 +1,6 @@
 ## Devrim
 
-### - 🔭Etudiant en BTS SIO à Saint Ursule
+###  🔭Etudiant en BTS SIO à Saint Ursule
 - 🌱 SISR/SLAM
 - 19 ANS 
 - Caen
