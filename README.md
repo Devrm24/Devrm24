@@ -8,4 +8,5 @@
 - Conaissances en HTML/CSS/SQL
 - Semaine d'entreprise (effectué à Jean Rostand)
 - Conaissance en informatique depuis 1 année
-### -  💬 Me contacter par mail : alexandrecontact.enter@gmail.com
+### CONTACT v:
+-  💬 Me contacter par mail : alexandrecontact.enter@gmail.com
