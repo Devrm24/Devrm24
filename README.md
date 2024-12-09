@@ -13,11 +13,11 @@
 - Conaissance en informatique depuis 1 année
 
 ### Niveau :
-HTML : 4/5
-CSS : 4/5
-Java : 1/5
-PHP : 2/5
-SQL : 2/5
+- HTML : 4/5
+- CSS : 4/5
+- Java : 1/5
+- PHP : 2/5
+- SQL : 2/5
 
 ### CONTACT :
 -  💬 Me contacter par mail : alexandrecontact.enter@gmail.com
