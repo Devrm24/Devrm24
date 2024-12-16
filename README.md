@@ -15,8 +15,8 @@
 ### Niveau :
 - HTML : 4/5
 - CSS : 4/5
-- Java : 1/5
-- PHP : 1/5
+- Java : 3/5
+- PHP : 3/5
 - SQL : 2/5
 
 ### CONTACT :
